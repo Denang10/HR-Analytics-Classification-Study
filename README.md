@@ -8,7 +8,7 @@ This project was conducted as part of group II during semester 1 module CSC1181:
 
 | Model | Encoding | Accuracy | ROC-AUC |
 |-------|----------|----------|---------|
-| **Gradient Boosting** | Ordinal | **84.34%** | **0.8434** |
+| **Gradient Boosting** | **Ordinal** | **84.34%** | **0.8434** |
 | Random Forest | Ordinal | 84.15% | 0.8415
 | Random Forest | One-Hot | 84.04% | 0.8404 |
 | KNN | One-Hot | 79.51% | 0.7951 |
