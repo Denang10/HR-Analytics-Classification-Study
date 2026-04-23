@@ -1,6 +1,8 @@
 # HR-Analytics-Classification-Study
 
-Predicting data scientists' likelihood to switch jobs using survey data. **Random Forest: 84.15% accuracy, 0.8415 ROC-AUC** (ordinal encoding). [Colab Demo](https://colab.research.google.com/github/[yourusername]/job-change-prediction/blob/main/ML_Project_Final_v1.4.ipynb)
+This project investigates the survey responses of 19k applicants enrolled in a company's training programme. The responses are used to predict which of these applicants are likely to transfer over from their current jobs, in an effort to reduce HR work required.
+
+This project was conducted as part of group II during semester 1 module CSC1181: Foundations of Statistical Analysis & Machine Learning
 
 ## 📊 Key Results
 
